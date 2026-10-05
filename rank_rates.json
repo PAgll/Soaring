@@ -1,0 +1,9 @@
+{
+  "title": "Rank Panel",
+  "description": "Purchase official Hypixel ranks with SkyBlock Coins!\n*Create a ticket to purchase your rank.*",
+  "perm_ranks": "600M For VIP\n800M For VIP+\n1.5B For MVP\n2.3B For MVP+",
+  "sub_ranks": "700M For MVP++ 30 days (REQUIRE MVP+)\n1.5B For MVP++ 90 days (REQUIRE MVP+)\n3B For MVP++ 180 days (REQUIRE MVP+)\n5B For MVP++ 365 days (REQUIRE MVP+)",
+  "notice": "PRICES CAN CHANGE ACCORDING TO CHANGE IN PRICE ON HYPIXEL STORE",
+  "color": 16776957,
+  "panels": []
+}

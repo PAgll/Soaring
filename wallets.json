@@ -1,0 +1,22 @@
+{
+  "ltc": {
+    "address": "LTC_WALLET_ADDRESS_HERE",
+    "network": "Litecoin Network (LTC)"
+  },
+  "usdt": {
+    "address": "USDT_WALLET_ADDRESS_HERE",
+    "network": "TRC-20 (Tron) / BEP-20 (BSC)"
+  },
+  "btc": {
+    "address": "BTC_WALLET_ADDRESS_HERE",
+    "network": "Bitcoin Network (BTC)"
+  },
+  "eth": {
+    "address": "ETH_WALLET_ADDRESS_HERE",
+    "network": "ERC-20 (Ethereum)"
+  },
+  "sol": {
+    "address": "SOL_WALLET_ADDRESS_HERE",
+    "network": "Solana Network"
+  }
+}

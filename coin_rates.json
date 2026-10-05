@@ -1,0 +1,9 @@
+{
+  "title": "Coin Panel",
+  "min_level_info": "Minimum level is 50, the higher level the safer you will be.",
+  "buy_rates": "$35/B above 300M\n$30/B above 500M\n$25/B above 1B",
+  "sell_rates": "$18/B",
+  "payment_methods": "Ł **LTC** • 🪙 **USDC** • ₿ **BTC** • ₮ **USDT** • 🟣 **SOL** • 🔷 **ETH**",
+  "color": 16776957,
+  "panels": []
+}

@@ -1,0 +1,7 @@
+{
+  "enabled": false,
+  "channel_id": null,
+  "interval_hours": 4,
+  "bump_type": "all",
+  "last_bump": null
+}
